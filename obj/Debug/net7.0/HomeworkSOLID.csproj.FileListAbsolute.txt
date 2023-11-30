@@ -1,0 +1,14 @@
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\bin\Debug\net7.0\HomeworkSOLID.exe
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\bin\Debug\net7.0\HomeworkSOLID.deps.json
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\bin\Debug\net7.0\HomeworkSOLID.runtimeconfig.json
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\bin\Debug\net7.0\HomeworkSOLID.dll
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\bin\Debug\net7.0\HomeworkSOLID.pdb
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\obj\Debug\net7.0\HomeworkSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\obj\Debug\net7.0\HomeworkSOLID.AssemblyInfoInputs.cache
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\obj\Debug\net7.0\HomeworkSOLID.AssemblyInfo.cs
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\obj\Debug\net7.0\HomeworkSOLID.csproj.CoreCompileInputs.cache
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\obj\Debug\net7.0\HomeworkSOLID.dll
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\obj\Debug\net7.0\refint\HomeworkSOLID.dll
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\obj\Debug\net7.0\HomeworkSOLID.pdb
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\obj\Debug\net7.0\HomeworkSOLID.genruntimeconfig.cache
+C:\Users\Haxend\Desktop\CSharpOtusHomework\Homework3\HomeworkSOLID\obj\Debug\net7.0\ref\HomeworkSOLID.dll
